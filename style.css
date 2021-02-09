@@ -1,0 +1,48 @@
+body
+{
+    background-color: #f5e3cd;
+}
+header
+{
+    color:#683a1f;
+    text-align: center;
+    font-weight: bold;
+}
+a
+{
+    position: relative;
+    top: 60px;
+    font-size: 35px;
+    color: #7A4C28;
+    text-decoration: none;
+    padding: 30px;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+}
+a.dos
+{
+    position: relative;
+    left: 500px;
+}
+a.tres
+{
+    position: relative;
+    left: 1000px;
+}
+footer
+{
+    position: relative;
+    bottom: -100px;
+}
+p
+{
+    color: #92623d;
+    text-decoration: none;
+}
+p.elcafe
+{
+    font-size: 20px;
+}
